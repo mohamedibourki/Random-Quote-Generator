@@ -42,7 +42,7 @@ btnQuote.addEventListener('click', () => {
     
     // Get the quote using the random index
     let randomQuote = quotesArray[randomIndex];
-    let randomAuthor = authorArray[randomAuthorIndex];
+    let randomAuthor = authorArray[randomAuthorIndex];  
 
     // Update the inner HTML of the "quote" element
     document.getElementById("quote").innerHTML = randomQuote;

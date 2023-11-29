@@ -34,7 +34,7 @@ p {
     border: 1px solid;
     width: 50%;
     height: 20em;
-    border-radius: 20px;
+    border-radius: 0px;
     transition: 0.5s;
     box-shadow: none;
     display: flex;
@@ -52,7 +52,7 @@ p {
     align-items: center;
     background-color: #fff;
     border: 2px solid #111;
-    border-radius: 8px;
+    border-radius: 0px;
     box-sizing: border-box;
     color: #111;
     cursor: pointer;
@@ -74,7 +74,7 @@ p {
 
 .button-56:after {
     background-color: #111;
-    border-radius: 8px;
+    border-radius: 0px;
     content: "";
     display: block;
     height: 48px;
